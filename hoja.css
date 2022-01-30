@@ -1,0 +1,56 @@
+/* 
+* Estilos CSS
+* Description: Estilos del CRUD.
+* Version: 1.0
+* Author: 2021 - Pablo Garay
+* https://github.com/PabloGarayOk/CRUD-con-Paginacion.git
+*/
+@charset "utf-8";
+
+body{
+	background-color:#ECECEC;
+	font-family: century Gothic;
+}
+
+h1{
+	text-align:center;
+	font-size: 35px;
+	color: #38337d;
+}
+
+.subtitulo{
+	font-size:12px;
+}
+
+form {
+    margin: auto;
+}
+
+table{
+	width: 580px;
+}
+
+table td{
+	text-align:center;
+	border:1px #38337d dotted;
+}
+
+table .sin{
+	border:0;
+}
+
+table .bot{
+	padding:0 5px;
+	display:inline;
+	border:0;
+}
+
+table .primera_fila{
+	font-size:1.5em;
+	background-color:#C0C0C0;
+}
+
+.centrado{
+	text-align:center;
+}
+
