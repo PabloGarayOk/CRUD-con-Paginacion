@@ -1,0 +1,7 @@
+//Instrucciones SQL para crear tabla y ver como funciona el CRUD
+
+//Creamos la BBDD:
+   create database pruebas;
+
+//Creamos la TABLA:
+   CREATE TABLE datos_usuarios (Id int AUTO_INCREMENT, Nombre varchar(20), Apellido varchar(20), Direccion varchar(30), PRIMARY KEY (Id))
