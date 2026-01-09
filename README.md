@@ -43,7 +43,7 @@ CREATE TABLE datos_usuarios (
 - conexion.php – Database connection
 - editar.php – Update records
 - borrar.php – Delete records
-- hoja.css/ – Stylesheet
+- hoja.css – Stylesheet
 
 ## Notes
 
